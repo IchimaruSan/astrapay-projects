@@ -23,7 +23,7 @@ Aplikasi sederhana untuk membuat, menampilkan, dan menghapus catatan (**notes**)
 
 ```bash
 cd astrapay-spring-boot-external
-./mvnw spring-boot:run
+./mvn spring-boot:run
 ```
 
 API akan berjalan di: `http://localhost:8080/api/notes`
